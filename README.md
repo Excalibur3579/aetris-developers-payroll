@@ -8,3 +8,4 @@ void Salary()
  int eno;
  cout<<"Enter the employee number of the employee whose salary is to be edited:";
  cin>>eno;
+ 
